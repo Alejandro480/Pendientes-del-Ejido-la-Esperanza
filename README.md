@@ -23,6 +23,8 @@ En la siguiente Imagen se muestra una pequeña simbologia del los rangos de elev
 
 ![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/RANGOS.png)
 
+Las pendientes que son aptas para poder establacer agricultura son los que tienen color verde en el mapa que se muestra anteriormente, las cuales son las que tienen una pendiente apta para esto, dichas pendietnes tienen una inclinación de 0 grados hasta 5 grados de inclinación.
+
 # Resumen
 
 En este proyecto se prevé hacer un mapa temático del ejido la esperanza el cual contenga las características junto con las pendientes, de poder leerlo y saber que se puede sembrar en el área a estudiar.
@@ -45,7 +47,7 @@ Con la ayuda de la programación asignaremos una clasificación correspondiente 
 
 # Desarrollo
 
-Para desarrollar este programa se tiene que utilizar un paquete de Python que proporciona los diferentes pendientes que tiene el ejido  a estudiar con la herramienta de los sistemas de información Geográfica como lo es QGIS
+Para desarrollar este programa se tiene que utilizar un paquete de Python que proporciona los diferentes pendientes que tiene el ejido  a estudiar con la herramienta de los sistemas de información Geográfica como lo es ArcGis
 
 1.-   Se tiene que importar e instalar la librería usada la cual es "openpyxl" ya que con ella se basara nuestro proyecto.
 
