@@ -154,4 +154,4 @@ Con las pendientes podemos ayudar y contribuir a los nuevos agricultores a elegi
  
  POSTER DE REPRESENTACION DEL PROYECTO
  
-![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/Poster.png)
+![PalabrasdelTextoAlternativo]()
