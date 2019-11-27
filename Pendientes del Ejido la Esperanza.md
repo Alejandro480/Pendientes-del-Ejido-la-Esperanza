@@ -13,7 +13,7 @@ Campus Coquimatlán, 284000
 
 Muestra los datos obtenidos de obtención de las pendientes del Ejido la Esperanza y finalmente poder mostrar una imagen de dicho Ejido.
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/EJIDO.png)
 
 # Resumen
 
