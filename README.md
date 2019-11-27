@@ -17,11 +17,11 @@ Campus Coquimatlán, 28400
 
 Muestra los datos obtenidos de obtención de las pendientes del Ejido la Esperanza y finalmente poder mostrar una imagen de dicho Ejido.
 
-![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/EJIDO.png)
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/EJIDO.png)
 
 En la siguiente Imagen se muestra una pequeña simbologia del los rangos de elevacion con sus respectivos colores
 
-![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/RANGOS.png)
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/RANGOS.png)
 
 # Resumen
 
@@ -77,7 +77,7 @@ El programa está diseñado para trabajar en el Sistema Operativo Windows.
 1.2. 	Equipo de prueba
 El equipo en el cual fue probado el programa es una computadora portátil de la marca Hp pavilion con las siguientes características:
 
-![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Especificaciones.png)
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/Especificaciones.png)
 
 # Resultados
 
@@ -85,11 +85,11 @@ Lo que se logró obtener con el código fue un programa en el cual se extraen de
 
 En el siguiente código se producen desde el Angulo mínimo  hasta el ángulo máximo 
 
-![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Tabla.png)
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/Tabla.png)
 
 Con la tabla mostrada anteriormente, generamos una grafica de pastel en la que se pudem observar las diferentes pendientes que existen en el Ejido la Esperanza
 
-![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Grafica.png)
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Imagenes/Grafica.png)
 
 Este es el codigo que se utilizo
 
