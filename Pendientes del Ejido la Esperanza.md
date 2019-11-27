@@ -13,6 +13,8 @@ Campus Coquimatlán, 284000
 
 Muestra los datos obtenidos de obtención de las pendientes del Ejido la Esperanza y finalmente poder mostrar una imagen de dicho Ejido.
 
+![PalabrasdelTextoAlternativo]()
+
 # Resumen
 
 En este proyecto se prevé hacer un mapa temático del ejido la esperanza el cual contenga las características junto con las pendientes, de poder leerlo y saber que se puede sembrar en el área a estudiar.
@@ -67,7 +69,7 @@ El programa está diseñado para trabajar en el Sistema Operativo Windows.
 1.2. 	Equipo de prueba
 El equipo en el cual fue probado el programa es una computadora portátil de la marca Hp pavilion con las siguientes características:
 
-AGREGAR IMAGEN ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¿
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Especificaciones.png)
 
 # Resultados
 
@@ -75,9 +77,13 @@ Lo que se logró obtener con el código fue un programa en el cual se extraen de
 
 En el siguiente código se producen desde el Angulo mínimo  hasta el ángulo máximo 
 
-AGREGAR IMAGEN
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Tabla.png)
 
 Con la tabla mostrada anteriormente, generamos una grafica de pastel en la que se pudem observar las diferentes pendientes que existen en el Ejido la Esperanza
+
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/Grafica.png)
+
+Este es el codigo que se utilizo
 
     import openpyxl
     
@@ -129,3 +135,7 @@ Ramírez Serratos Alejandro:
 
 Al principio el proyecto y la creación del programa resultó difícil además las librerías necesarias e instalación resultaron igual.
 Con las pendientes podemos ayudar y contribuir a los nuevos agricultores a elegir mejor sus áreas de cultivo. Como proyecto me parece satisfactorio porque es lo que queríamos realizar desde un principio. 
+
+# Referencias
+ Agregar URL de las consultas
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/POSTER%20PENDIENTES.jpg)
