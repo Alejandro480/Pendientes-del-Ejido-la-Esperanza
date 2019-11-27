@@ -141,5 +141,10 @@ Al principio el proyecto y la creación del programa resultó difícil además l
 Con las pendientes podemos ayudar y contribuir a los nuevos agricultores a elegir mejor sus áreas de cultivo. Como proyecto me parece satisfactorio porque es lo que queríamos realizar desde un principio. 
 
 # Referencias
- Agregar URL de las consultas
+
+ https://www.inegi.org.mx/app/mapas/
+ https://www.arcgis.com
+ 
+ POSTER DE REPRESENTACION DEL PROYECTO
+ 
 ![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/POSTER%20PENDIENTES.jpg)
