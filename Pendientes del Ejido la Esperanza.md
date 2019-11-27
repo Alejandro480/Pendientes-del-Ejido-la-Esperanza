@@ -7,13 +7,17 @@ Mario Humberto González Dimas,
 Juan David Hernandez Hernandez,  
     correo electronico: jhernandez14@ucol.mx
     
-Campus Coquimatlán, 284000
+Campus Coquimatlán, 28400
 
 # Pendientes-del-Ejido-la-Esperanza
 
 Muestra los datos obtenidos de obtención de las pendientes del Ejido la Esperanza y finalmente poder mostrar una imagen de dicho Ejido.
 
 ![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/EJIDO.png)
+
+En la siguiente Imagen se muestra una pequeña simbologia del los rangos de elevacion con sus respectivos colores
+
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/Pendientes-del-Ejido-la-Esperanza/blob/master/RANGOS.png)
 
 # Resumen
 
