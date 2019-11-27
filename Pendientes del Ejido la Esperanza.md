@@ -109,9 +109,11 @@ Para que la imagen pudea ser mostradra debera de indicarse con el nombre de la i
 
         image = ()
     
-    image.open(path_name)
+    image.open(path_name)=
 
-    image.show()
+        image.show()
+    
+    show()
     
 # Conclusiones
 
