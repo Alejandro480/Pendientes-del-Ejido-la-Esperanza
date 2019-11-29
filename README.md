@@ -13,7 +13,7 @@ Juan David Hernandez Hernandez,
     
 Campus Coquimatlán, 28400
 
-"Facultad de Ingeniería Civil, PE-ITG..." 
+"Facultad de Ingeniería Civil, PE-ITG..." Programa educativo Ingeniero Topografo Geomatico creo
 # Pendientes-del-Ejido-la-Esperanza
 
 Muestra los datos obtenidos de obtención de las pendientes del Ejido la Esperanza y finalmente poder mostrar una imagen de dicho Ejido.
